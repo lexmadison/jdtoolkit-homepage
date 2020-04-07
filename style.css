@@ -4,7 +4,7 @@ body {
 	font-size: 17px;
 	padding: 1em;
 	text-align: center;
-	font-family: "Georgia", "Helvetica", "Arial", sans-serif;
+	font-family: "Georgia", "Helvetica", "Arial", serif, sans-serif;
 }
 
 h1 {
